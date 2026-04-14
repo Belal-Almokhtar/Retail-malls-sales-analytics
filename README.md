@@ -95,7 +95,7 @@ By joining three datasets — Sales, Customer Demographics, and Mall Characteris
 # Retail Sales & Mall Insights Dashboard
 
 ## 📊 Overview Dashboard
-! [Overview Dashboard](https://github.com/Belal-Almokhtar/Retail-malls-sales-analytics/blob/main/images/Screenshot%202026-04-14%20194835.png)
+! [Overview Dashboard](https://github.com/Belal-Almokhtar/Retail-malls-sales-analytics/blob/main/images/Screenshot%202026-04-14%20194835.png))
 
 ### 🔍 Insights
 - Total Revenue reached **$251M**.
