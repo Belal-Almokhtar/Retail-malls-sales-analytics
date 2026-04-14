@@ -92,7 +92,37 @@ By joining three datasets — Sales, Customer Demographics, and Mall Characteris
 
 ## 📊 Dashboard Preview
 
-> *(Power BI dashboard screenshots will be added here upon completion)*
+# Retail Sales & Mall Insights Dashboard
+
+## 📊 Overview Dashboard
+![Overview Dashboard](C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194835.png)
+
+### 🔍 Insights
+- Total Revenue reached **$251M**.
+- Clothing, Shoes, and Technology are the top-performing categories.
+- The best-performing mall is **Del Amo Fashion Center**.
+
+---
+
+## 📈 Sales Performance Dashboard
+![Sales Performance](C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194853.png)
+
+### 🔍 Insights
+- Revenue increased consistently between 2021–2023.
+- Clothing accounts for the highest revenue among all categories.
+- Top 3 malls contribute **~100M+** combined revenue.
+
+---
+
+## 👥 Customer Behavior Dashboard
+![Customer Behavior](C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194913.png)
+
+### 🔍 Insights
+- Female customers contribute **59%** of revenue.
+- Cash is the most used payment method.
+- Customers aged **30–45** generate the highest revenue.
+
+
 
 
 ## 👤 Author
