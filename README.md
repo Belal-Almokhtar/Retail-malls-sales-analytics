@@ -95,7 +95,7 @@ By joining three datasets — Sales, Customer Demographics, and Mall Characteris
 # Retail Sales & Mall Insights Dashboard
 
 ## 📊 Overview Dashboard
-![Overview Dashboard](C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194835.png)
+![Overview Dashboard]([C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194835.png](https://github.com/Belal-Almokhtar/Retail-malls-sales-analytics/blob/main/images/Screenshot%202026-04-14%20194835.png))
 
 ### 🔍 Insights
 - Total Revenue reached **$251M**.
@@ -105,7 +105,7 @@ By joining three datasets — Sales, Customer Demographics, and Mall Characteris
 ---
 
 ## 📈 Sales Performance Dashboard
-![Sales Performance](C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194853.png)
+![Sales Performance]([C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194853.png](https://github.com/Belal-Almokhtar/Retail-malls-sales-analytics/blob/main/images/Screenshot%202026-04-14%20194853.png))
 
 ### 🔍 Insights
 - Revenue increased consistently between 2021–2023.
@@ -115,7 +115,7 @@ By joining three datasets — Sales, Customer Demographics, and Mall Characteris
 ---
 
 ## 👥 Customer Behavior Dashboard
-![Customer Behavior](C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194913.png)
+![Customer Behavior]([C:\Users\alfgr\Pictures\Screenshots\Screenshot 2026-04-14 194913.png](https://github.com/Belal-Almokhtar/Retail-malls-sales-analytics/blob/main/images/Screenshot%202026-04-14%20194913.png))
 
 ### 🔍 Insights
 - Female customers contribute **59%** of revenue.
